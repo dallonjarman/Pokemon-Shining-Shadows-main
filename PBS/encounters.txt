@@ -1,0 +1,7 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[009,1] # Route 2
+Land,100
+    20,BULBASAUR,5
+    20,CHARMANDER,5
+    20,SQUIRTLE,5
