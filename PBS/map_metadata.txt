@@ -47,14 +47,14 @@ Name = Route 2a
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]
+[010]   # Route 2a
 Name = Cedolan City
 MapPosition = 0,13,10
 BattleBack = indoor3
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
-[011]
+[011]   # Route 2b
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
