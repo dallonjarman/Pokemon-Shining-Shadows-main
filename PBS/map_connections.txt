@@ -1,7 +1,5 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Lemoer (2) - \PN's house (5)
-2,North,0,5,South,4
 # Route 2a (10) - Route 2b (11)
 10,North,27,11,South,0
 # Campfire Town (12) - Route 2b (11)
@@ -10,7 +8,13 @@
 9,North,0,10,South,17
 # Ghost Town (8) - Route 2 (9)
 8,North,0,9,South,0
+# Route 3 (2) - Route 2 (9)
+2,East,0,9,West,40
 # Route 1 (7) - Ghost Town (8)
 7,North,2,8,South,0
+# Route 3 (2) - Ghost Town (8)
+2,East,10,8,West,0
 # Lemsoin Town (6) - Route 1 (7)
 6,North,0,7,South,1
+# Route 3 (2) - Route 1 (7)
+2,South,118,7,North,0
