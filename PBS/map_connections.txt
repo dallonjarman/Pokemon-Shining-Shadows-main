@@ -4,6 +4,8 @@
 2,North,0,5,South,4
 # Route 2a (10) - Route 2b (11)
 10,North,27,11,South,0
+# Campfire Town (12) - Route 2b (11)
+12,South,30,11,North,0
 # Route 2 (9) - Route 2a (10)
 9,North,0,10,South,17
 # Ghost Town (8) - Route 2 (9)
