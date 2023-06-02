@@ -1,7 +1,51 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[009,1] # Route 2
-Land,100
-    20,BULBASAUR,5
-    20,CHARMANDER,5
-    20,SQUIRTLE,5
+[007] # Route 1
+Land,35
+    20,BLIPBUG,1,3
+    20,PIKIPEK,1,3
+    20,POOCHYENA,1,3
+    20,YUNGOOS,1,3
+#-------------------------------
+[009] # Route 2
+Land,35
+    20,WEEDLE,4,7
+    15,MAREEP,4,7
+    15,PIKIPEK,4,7
+    15,YUNGOOS,4,7
+    5,TAILLOW,4,7
+    5,TAUROS,4,7
+    4,PICHU,4,7
+    1,KECLEON,4,7
+#-------------------------------
+[010] # Route 2a
+LandNight,35
+    20,WURMPLE,6,8
+    15,BLIPBUG,6,8
+    10,ODDISH,6,8
+    7,MISDREAVUS,6,8
+    7,MURKROW,6,8
+    5,BIDOOF,6,8
+    5,DIGLETT,6,8
+    5,GOSSIFLEUR,6,8
+    5,MORELULL,6,8
+    5,PACHIRISU,6,8
+    5,PHANTUMP,6,8
+    5,SEVIPER,6,8
+    5,ZANGOOSE,6,8
+    1,TEDDIURSA,6,8
+LandDay,35
+    20,WURMPLE,6,8
+    15,BLIPBUG,6,8
+    10,ODDISH,6,8
+    5,BIDOOF,6,8
+    5,DEERLING,6,8
+    5,DIGLETT,6,8
+    5,GOSSIFLEUR,6,8
+    5,MORELULL,6,8
+    5,PACHIRISU,6,8
+    5,PHANTUMP,6,8
+    5,SEVIPER,6,8
+    5,SEWADDLE,6,8
+    5,ZANGOOSE,6,8
+    1,TEDDIURSA,6,8
